@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+
+
+## CS 3510: Algorithms
+
+Welcome to the course page for CS 3510 in Fall 2020, Georgia Tech's undergraduate *Algorithms* course.
+
+#### [Click to view the syllabus](syllabus.html)
 
 You can use the [editor on GitHub](https://github.com/GT-CS-3510/gt-cs-3510.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
