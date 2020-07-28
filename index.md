@@ -10,7 +10,8 @@ Welcome to the course page for CS 3510 in Fall 2020, Georgia Tech's undergraduat
 
 Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-ebook-dp-B006Z0QR3I/dp/B006Z0QR3I/ref=mt_other?_encoding=UTF8&me=&qid=1595806390) of Dasgupta, Papdimitriou, and Vazirani.
 
-#### Recurrences and Cryptography
+#### Recurrences and Cryptography TESTING
+
 
 - **Day 1, 8/17/2020: Introduction to Course, Big-O, Logs, Fibonacci** 
 	- *Required Reading*: DPV Chapter 0
