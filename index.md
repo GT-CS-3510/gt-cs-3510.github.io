@@ -14,7 +14,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 
 - **Day 1, 8/17/2020: Introduction to Course, Big-O, Logs, Fibonacci** 
 	- *Required Reading*: DPV Chapter 0
-	- *Videos*: 
+	- *Videos*:
 - **Day 2, 8/19/2020: Multiplication** 
 	- *Required Reading*: DPV Chapter 2.1
 	- *Videos*: 
