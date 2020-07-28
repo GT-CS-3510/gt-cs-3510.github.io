@@ -10,6 +10,8 @@ Welcome to the course page for CS 3510 in Fall 2020, Georgia Tech's undergraduat
 
 Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-ebook-dp-B006Z0QR3I/dp/B006Z0QR3I/ref=mt_other?_encoding=UTF8&me=&qid=1595806390) of Dasgupta, Papdimitriou, and Vazirani.
 
+#### Recurrences and Cryptography
+
 - **Day 1, 8/17/2020: Introduction to Course, Big-O, Logs, Fibonacci** 
 	- *Required Reading*: DPV Chapter 0
 	- *Videos*: 
@@ -23,30 +25,34 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
 - **Day 5, 8/31/2020: Modular Arithmetic** 
-	- *Required Reading*: 
+	- *Required Reading*: DPV Chapter 1.2 & 1.3
 	- *Videos*: 
 - **Day 6, 9/2/2020:RSA Cryptosystem** 
-	- *Required Reading*: DPV Chapter 1
+	- *Required Reading*: DPV Chapter 1.4
 	- *Videos*: 
 - **Day 7, 9/9/2020: EXAM 1** 
-- **Day 8, 9/14/2020:** 
-	- *Required Reading*:
+
+#### Dynamic Programming
+
+- **Day 8, 9/14/2020: Intro to DP & Shortest Paths in a DAG** 
+	- *Required Reading*: DPV Chapter 6.1
 	- *Videos*: 
-- **Day 9, 9/16/2020:** 
-	- *Required Reading*:
+- **Day 9, 9/16/2020: Longest Increasing Subsequences** 
+	- *Required Reading*: DPV Chapter 6.4
 	- *Videos*: 
-- **Day 10, 9/21/2020:** 
-	- *Required Reading*:
+- **Day 10, 9/21/2020: The Knapsack Problem** 
+	- *Required Reading*: DPV Chapter 
 	- *Videos*: 
-- **Day 11, 9/23/2020:** 
-	- *Required Reading*:
+- **Day 11, 9/23/2020: Chain Matrix Multiplication** 
+	- *Required Reading*: DPV Chapter 6.5
 	- *Videos*: 
-- **Day 12, 9/28/2020:** 
-	- *Required Reading*:
-	- *Videos*: 
-- **Day 13, 9/30/2020:** 
-	- *Required Reading*:
-	- *Videos*: 
+- **Day 12, 9/28/2020: Practice with DP** 
+- **Day 13, 9/30/2020: EXAM 2** 
+	- *Required Reading*: DPV Chapter 
+	- *Videos*:
+
+#### Graph Algorithms
+
 - **Day 14, 10/5/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
@@ -65,9 +71,10 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 19, 10/21/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 20, 10/26/2020:** 
-	- *Required Reading*:
-	- *Videos*: 
+- **Day 20, 10/26/2020: EXAM 3** 
+
+#### Complexity Theory and NP-completeness
+
 - **Day 21, 10/28/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
@@ -89,9 +96,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 27, 11/18/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 28, 11/23/2020:** 
-	- *Required Reading*:
-	- *Videos*: 
+- **Day 28, 11/23/2020: EXAM 4** 
 	
 	
 You can use the [editor on GitHub](https://github.com/GT-CS-3510/gt-cs-3510.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
