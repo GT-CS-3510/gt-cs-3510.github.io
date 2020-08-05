@@ -10,15 +10,19 @@ Welcome to the course page for CS 3510 in Fall 2020, Georgia Tech's undergraduat
 
 Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-ebook-dp-B006Z0QR3I/dp/B006Z0QR3I/ref=mt_other?_encoding=UTF8&me=&qid=1595806390) of Dasgupta, Papdimitriou, and Vazirani.
 
-#### Recurrences and Cryptography TESTING
+#### Recurrences and Cryptography
 
 - **Day 1, Monday 8/17/2020: Introduction to Course, Big-O, Logs, Fibonacci** 
 	- *Required Reading*: DPV Chapter 0
 	- *Videos*:
+		+ [Big-O Notation](https://drive.google.com/file/d/1TasXQW9B8PBBMwD3a1UU1Fr_eg4BI3oM/view?usp=sharing)
+		+ [Computing Fibonacci](https://drive.google.com/file/d/1cl48vUD4tEl1A6Xfk2yovNV2fjCHZ1Bp/view?usp=sharing)
 	- Homework 1A released, due Sunday 8/30 11pm
-- **Day 2, Wednesday 8/19/2020: Multiplication** 
-	- *Required Reading*: DPV Chapter 2.1
+- **Day 2, Wednesday 8/19/2020: MergeSort and Multiplication** 
+	- *Required Reading*: DPV Chapter 2.1 & 2.3
 	- *Videos*: 
+		+ [MergeSort Algorithm](https://drive.google.com/file/d/1D93m-PdzdtEoRfwdg8jhFQ6QWNB5x5P7/view?usp=sharing)
+		+ [Multiplication](https://drive.google.com/file/d/1sVMqbOF4uZSlxWCxOUQ5eqxAz8M68pgp/view?usp=sharing)
 - **Day 3, Monday 8/24/2020: Recurrences and Matrix Multiplication** 
 	- *Required Reading*: DPV Chapter 2.2 & 2.5
 	- *Videos*: 
