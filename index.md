@@ -16,7 +16,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Required Reading*: DPV Chapter 0
 	- *Videos*:
 		+ [Big-O Notation](https://drive.google.com/file/d/1TasXQW9B8PBBMwD3a1UU1Fr_eg4BI3oM/view?usp=sharing)
-		+ [Computing Fibonacci](https://drive.google.com/file/d/1cl48vUD4tEl1A6Xfk2yovNV2fjCHZ1Bp/view?usp=sharing)
+		+ [Computing Fibonacci](https://drive.google.com/file/d/1fEFxyrDk-qjulF3OjoXkHT-Vuo_zH9Qb/view?usp=sharing)
 	- Homework 1A released, due Sunday 8/30 11pm
 - **Day 2, Wednesday 8/19/2020: MergeSort and Multiplication** 
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
