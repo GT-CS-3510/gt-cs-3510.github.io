@@ -22,12 +22,14 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Videos*:
 		+ [Big-O Notation](https://drive.google.com/file/d/1TasXQW9B8PBBMwD3a1UU1Fr_eg4BI3oM/view?usp=sharing)
 		+ [Computing Fibonacci](https://drive.google.com/file/d/1fEFxyrDk-qjulF3OjoXkHT-Vuo_zH9Qb/view?usp=sharing)
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNiN2RmZDQtYzZhZC00MTI2LWI0YzUtMzYwNmNjOWQ1YzU0%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- Homework 1A released, due Sunday 8/30 11pm
 - **Day 3, Tuesday 8/25/2020: MergeSort and Multiplication** 
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
 	- *Videos*: 
 		+ [MergeSort Algorithm](https://drive.google.com/file/d/1D93m-PdzdtEoRfwdg8jhFQ6QWNB5x5P7/view?usp=sharing)
 		+ [Multiplication](https://drive.google.com/file/d/1sVMqbOF4uZSlxWCxOUQ5eqxAz8M68pgp/view?usp=sharing)
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNiN2RmZDQtYzZhZC00MTI2LWI0YzUtMzYwNmNjOWQ1YzU0%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 - **Day 4, Thursday 8/27/2020: Recurrences and Matrix Multiplication** 
 	- *Required Reading*: DPV Chapter 2.2 & 2.5
 	- *Videos*: 
