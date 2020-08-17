@@ -18,21 +18,24 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Videos*:
 		+ [Course Intro Video](https://www.youtube.com/watch?v=XoSz_oxEoNA)
 - **Day 2, Thursday 8/20/2020: Big-O, Logs, Fibonacci** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdmNTUwOGMtZjUzNS00YjVlLTg3NzktZGM5YzE5NDIxYWJk%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 0
 	- *Videos*:
-		+ [Big-O Notation](https://drive.google.com/file/d/1TasXQW9B8PBBMwD3a1UU1Fr_eg4BI3oM/view?usp=sharing)
-		+ [Computing Fibonacci](https://drive.google.com/file/d/1fEFxyrDk-qjulF3OjoXkHT-Vuo_zH9Qb/view?usp=sharing)
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNiN2RmZDQtYzZhZC00MTI2LWI0YzUtMzYwNmNjOWQ1YzU0%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		+ [Big-O Notation](https://youtu.be/7wgr1yhyWW8)
+		+ [Computing Fibonacci](https://youtu.be/4BQm1zYPCf4)
 	- Homework 1A released, due Sunday 8/30 11pm
 - **Day 3, Tuesday 8/25/2020: MergeSort and Multiplication** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNiN2RmZDQtYzZhZC00MTI2LWI0YzUtMzYwNmNjOWQ1YzU0%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
 	- *Videos*: 
-		+ [MergeSort Algorithm](https://drive.google.com/file/d/1D93m-PdzdtEoRfwdg8jhFQ6QWNB5x5P7/view?usp=sharing)
-		+ [Multiplication](https://drive.google.com/file/d/1sVMqbOF4uZSlxWCxOUQ5eqxAz8M68pgp/view?usp=sharing)
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNiN2RmZDQtYzZhZC00MTI2LWI0YzUtMzYwNmNjOWQ1YzU0%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		+ [MergeSort Algorithm](https://youtu.be/payq7AWzMVk)
+		+ [Multiplication](https://youtu.be/_ymFYrM4Lv8)
 - **Day 4, Thursday 8/27/2020: Recurrences and Matrix Multiplication** 
 	- *Required Reading*: DPV Chapter 2.2 & 2.5
 	- *Videos*: 
+		+ [Solving Recurrences](https://youtu.be/Hqkia6gMmNg)
+		+ [The Master Theorem](https://www.youtube.com/watch?v=Zzbfn8XnFHw&t=3s)
+		+ [Improved Matrix Multiplication](https://www.youtube.com/watch?v=OOxpiS9_NWk)
 - **Day 5, Tuesday 9/1/2020: Fast Fourier Transform** 
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
