@@ -104,7 +104,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 23, Thursday 11/5/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
-	- Homework 4B released, due Sunday 11/22 11pm
+	- Homework 4B released, due Sunday 11/15 11pm
 - **Day 24, Tuesday 11/10/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
@@ -114,9 +114,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 26, Tuesday 11/17/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 27, Thursday 11/19/2020:** 
-	- *Required Reading*:
-	- *Videos*: 
-- **Day 28, Tuesday 11/24/2020: EXAM 4** 
+- **Day 27, Thursday 11/19/2020: EXAM 4** 
+- **Day 28, Tuesday 11/24/2020: NO CLASS** 
 	
 

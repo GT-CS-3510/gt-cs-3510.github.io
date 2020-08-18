@@ -14,7 +14,7 @@ title: CS 3510, Design and Analysis of Algorithms
 CS 3510 will be an almost entirely online course in Fall 2020. We are aiming to do a mix of synchronous and asynchronous instruction, using a "flipped classroom"-style format. Here's how this will work:
 
 1. For every class period, we will have a set of pre-recorded youtube videos for students to watch, covering the content for this class. Links to these videos can be found on the course page.
-2. Having watched the videos, students will come and join our virtual classes (12:30-1:45pm on Monday/Wednesday) via the Microsoft Teams Live Event link.
+2. Having watched the videos, students will come and join our virtual classes (12:30-1:45pm on Tuesday/Thursday) via the Microsoft Teams Live Event link (see course schedule).
 3. In the live class, we'll have a quick quiz to check for compreshension of the lecture videos, but we'll spend most of the time *solving problems*:
     + Problems will be solved in small groups of about 8 students
     + Once the problem is announced by the professor, students move into a breakout "room" with their group, and discuss the problem for 5-10 minutes.
@@ -56,7 +56,9 @@ only your final overall percentage grade for the course will be curved. Individu
 
 ### Homeworks
 
-There will be eight homeworks. You will have a week to complete each. Each homework will have several problems but only some problems will be graded. Homeworks will be the best source of practice for the exams. There will be a grace period of one week to submit late homework. Late submissions will be penalized with 20% of your score. Once grades are released, you will have a week to ask for a regrade, if you consider that your homework was unfairly graded.
+There will be eight homeworks. You will have roughly a week to complete each. Each homework will have several problems but only some problems will be graded. Homeworks will be the best source of practice for the exams. Homeworks must be submitted as a PDF document on Gradescope. The document must be typed (Word, LaTex, etc.) and handwritten solutions **will not** be accepted. There will be a grace period of one week to submit late homework. Late submissions will be penalized with a 20% deduction of your score. Once grades are released, you will have a week to ask for a regrade, if you reasonably consider that your homework was unfairly or incorrectly graded.
+ 
+The homework instructions must be followed to receive full credit. A solution must adhere to any justification, time complexity analysis, correctness, and running time requirements. Unless otherwise stated, pseudocode is not an accepted format for an algorithm solution.
 
 ### Exams
 
