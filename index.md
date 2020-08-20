@@ -28,7 +28,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM3MTgwODItNmE4ZS00MzA5LTk5MmItNGE2ZTFhODAwMGZi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
 	- *Videos*: 
-		+ [MergeSort Algorithm](https://youtu.be/payq7AWzMVk)
+		+ [MergeSort Algorithm](https://youtu.be/dPNOR5-PoMw)
 		+ [Multiplication](https://youtu.be/_ymFYrM4Lv8)
 - **Day 4, Thursday 8/27/2020: Recurrences and Matrix Multiplication** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzc3M2EyOTMtMTZiOC00YTI2LTk3YjctMmE1ZGExMjdlZjhi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
@@ -40,7 +40,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 5, Tuesday 9/1/2020: Fast Fourier Transform** 
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
-	- Homework 1B released, due Sunday 9/6 11pm
+	- Homework 1B released, due Sunday 9/13 11pm
 - **Day 6, Thursday 9/3/2020: Modular Arithmetic** 
 	- *Required Reading*: DPV Chapter 1.2 & 1.3
 	- *Videos*: 
