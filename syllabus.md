@@ -70,6 +70,23 @@ The CS 3510 homework collaboration policy is as follows:
     + Please note that one of the most common violations of the homework policy is to use solutions found on the internet, which (coincidentally) happen to be the easiest to detect! We would strongly recommend against checking sites like Chegg, even if you've paid for a professional tutor, as this can often lead to policy violations
 + While not required, we would certainly encourage you to work with your assigned live session group for homeworks, exam studying, etc. You will work with this team throughout the semester anyway, so it shouldn't be too hard to schedule additional meetings with them separately. You're welcome to write "Questionable Quoll" (or whatever your group is named) on your homework if this was your collaboration group and we'll accept this as the appropriate disclosure.
 
+### Quizzes
+
+Each day, during the live session, there will be a quiz. The quizzes are meant to test three different things:
+
+1. Did you at least watch the required lecture videos before the live session? 
+1. Did you understand the basic concepts discussed in these videos and reading?
+1. Did you attend the live session?
+
+
+We'll test (1) by asking a trivial question about the lecture video; for example, sometimes I'll mention an animal as "the word of the day", or we'll just ask something basic about the topics discussed. We'll test (2) by asking a basic question on content. We'll test (c) by giving out a 3-4 digit code, announced during each live session when I say "OK time for the quiz".
+
+You can find every quiz by going to GradeScope (linked via Canvas). Keep in mind that it's timed! You only have 3 minutes to answer all three questions. 
+
+Students who are in distant time zones may want to take the quiz and not attend the live sessions. This is strongly discouraged but is partially acceptable. The quizzes will be made available several hours before the live sessions and you can take them early if you will not be awake for the live session. BUT you will almost certainly not be able to answer the question "What is the code given in lecture?" which will be 1 out of 3 points for the quiz. The quizzes make up 10% of the grade so this has a cost of 3.3% in total for the course.
+
+
+
 ### Exams
 
 Each exam will consist of 2-3 problems. Exams will be held during regular lecture time. The final exam will be cumulative and will be at the date, time and location indicated in the official GT calendar.
