@@ -37,17 +37,17 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		+ [Solving Recurrences](https://youtu.be/Hqkia6gMmNg)
 		+ [The Master Theorem](https://www.youtube.com/watch?v=Zzbfn8XnFHw&t=3s)
 		+ [Improved Matrix Multiplication](https://www.youtube.com/watch?v=OOxpiS9_NWk)
-- **Day 5, Thursday 9/1/2020: Modular Arithmetic** 
+- **Day 5, Tuesday 9/1/2020: Modular Arithmetic** 
 	- *Required Reading*: DPV Chapter 1.2 & 1.3
 	- *Videos*: 
+	- Homework 1B released, due Sunday 9/13 11pm
 - **Day 6, Thursday 9/3/2020: RSA Cryptosystem** 
 	- *Required Reading*: DPV Chapter 1.4
 	- *Videos*: 
 - **NO CLASS Tuesday 9/8**
-- **Day 7, Tuesday 9/10/2020: Fast Fourier Transform** 
+- **Day 7, Thursday 9/10/2020: Fast Fourier Transform** 
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
-	- Homework 1B released, due Sunday 9/13 11pm
 - **Day 8, Tuesday 9/15/2020: EXAM 1** 
 	- Homework 2A released, due Sunday 9/27 11pm
 
