@@ -60,6 +60,16 @@ There will be eight homeworks. You will have roughly a week to complete each. Ea
  
 The homework instructions must be followed to receive full credit. A solution must adhere to any justification, time complexity analysis, correctness, and running time requirements. Unless otherwise stated, pseudocode is not an accepted format for an algorithm solution.
 
+The CS 3510 homework collaboration policy is as follows:
+
++ Working together on homework is not only permitted but encouraged. You can discuss problems with fellow students, and try to develop answers together. But
+    + you must disclose your collaborators on the top of your homework submission, and
+    + your writeup must be your own work, and must not be significantly similar to other submissions.
++ The policy in 1b would be violated, for example, if you were copying a solution you found on the internet, copy/pasting text from another student's notes or submission, copying from a shared collaboration space (collaborative whiteboard, google doc, etc.), or writing down another student's verbal explanation of their solution.
+    + It is easy to not violate this policy: when working in a group, take your own notes, and when you sit down to expose your answers make sure you are in a separate location and you are not in direct communication (video chat) with other students;
+    + Please note that one of the most common violations of the homework policy is to use solutions found on the internet, which (coincidentally) happen to be the easiest to detect! We would strongly recommend against checking sites like Chegg, even if you've paid for a professional tutor, as this can often lead to policy violations
++ While not required, we would certainly encourage you to work with your assigned live session group for homeworks, exam studying, etc. You will work with this team throughout the semester anyway, so it shouldn't be too hard to schedule additional meetings with them separately. You're welcome to write "Questionable Quoll" (or whatever your group is named) on your homework if this was your collaboration group and we'll accept this as the appropriate disclosure.
+
 ### Exams
 
 Each exam will consist of 2-3 problems. Exams will be held during regular lecture time. The final exam will be cumulative and will be at the date, time and location indicated in the official GT calendar.

@@ -37,36 +37,35 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		+ [Solving Recurrences](https://youtu.be/Hqkia6gMmNg)
 		+ [The Master Theorem](https://www.youtube.com/watch?v=Zzbfn8XnFHw&t=3s)
 		+ [Improved Matrix Multiplication](https://www.youtube.com/watch?v=OOxpiS9_NWk)
-- **Day 5, Tuesday 9/1/2020: Fast Fourier Transform** 
+- **Day 5, Thursday 9/1/2020: Modular Arithmetic** 
+	- *Required Reading*: DPV Chapter 1.2 & 1.3
+	- *Videos*: 
+- **Day 6, Thursday 9/3/2020: RSA Cryptosystem** 
+	- *Required Reading*: DPV Chapter 1.4
+	- *Videos*: 
+- **NO CLASS Tuesday 9/8**
+- **Day 7, Tuesday 9/10/2020: Fast Fourier Transform** 
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
 	- Homework 1B released, due Sunday 9/13 11pm
-- **Day 6, Thursday 9/3/2020: Modular Arithmetic** 
-	- *Required Reading*: DPV Chapter 1.2 & 1.3
-	- *Videos*: 
-- **NO CLASS Tuesday 9/8**
-- **Day 7, Thursday 9/10/2020: RSA Cryptosystem** 
-	- *Required Reading*: DPV Chapter 1.4
-	- *Videos*: 
 - **Day 8, Tuesday 9/15/2020: EXAM 1** 
-	- Homework 2A released, due Sunday 9/20 11pm
+	- Homework 2A released, due Sunday 9/27 11pm
 
 #### Dynamic Programming
 
 
 - **Day 9, Thursday 9/17/2020: Intro to DP & Shortest Paths in a DAG** 
 	- *Required Reading*: DPV Chapter 6.1
+	- *Videos*: 
+- **Day 10, Tuesday 9/22/2020: Longest Increasing Subsequences** 
+	- *Required Reading*: DPV Chapter 6.2
+	- *Videos*: 
+	- Homework 2B released, due Sunday 10/4 11pm
+- **Day 11, Thursday 9/24/2020: The Knapsack Problem** 
 	- *Required Reading*: DPV Chapter 6.4
 	- *Videos*: 
-	- Homework 2B released, due Sunday 9/27 11pm
-- **Day 10, Tuesday 9/22/2020: Longest Increasing Subsequences** 
-	- *Required Reading*: DPV Chapter 
-	- *Videos*: 
-- **Day 11, Thursday 9/24/2020: The Knapsack Problem** 
-	- *Required Reading*: DPV Chapter 6.5
-	- *Videos*: 
 - **Day 12, Tuesday 9/29/2020: Chain Matrix Multiplication** 
-	- *Required Reading*: DPV Chapter 
+	- *Required Reading*: DPV Chapter 6.5
 	- *Videos*:
 - **Day 13, Thursday 10/1/2020: Practice with DP** 
 	- Homework 3A released, due Sunday 10/11 11pm
