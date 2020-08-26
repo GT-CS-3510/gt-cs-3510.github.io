@@ -85,6 +85,8 @@ You can find every quiz by going to GradeScope (linked via Canvas). Keep in mind
 
 Students who are in distant time zones may want to take the quiz and not attend the live sessions. This is strongly discouraged but is partially acceptable. The quizzes will be made available several hours before the live sessions and you can take them early if you will not be awake for the live session. BUT you will almost certainly not be able to answer the question "What is the code given in lecture?" which will be 1 out of 3 points for the quiz. The quizzes make up 10% of the grade so this has a cost of 3.3% in total for the course.
 
+We will drop the 4 lowest quiz scores. So you won't be penalized if your internet goes down, or you have a doctor's appointment, etc. You get four free passes.
+
 
 
 ### Exams
