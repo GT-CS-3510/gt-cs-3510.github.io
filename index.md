@@ -71,7 +71,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Required Reading*: DPV Chapter 6.5
 	- *Videos*:
 - **Day 13, Thursday 10/1/2020: Practice with DP** 
-	- Homework 3A released, due Sunday 10/11 11pm
+	- Homework 3A released, due Sunday 10/18 11pm
 - **Day 14, Tuesday 10/6/2020: EXAM 2** 
 
 #### Graph Algorithms
@@ -79,13 +79,13 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 15, Thursday 10/8/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
-	- Homework 3B released, due Sunday 10/25 11pm
 - **Day 16, Tuesday 10/13/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
 - **Day 17, Thursday 10/15/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
+	- Homework 3B released, due Sunday 10/25 11pm
 - **Day 18, Tuesday 10/20/2020:** 
 	- *Required Reading*:
 	- *Videos*: 
