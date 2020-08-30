@@ -49,7 +49,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Videos*: 
 		+ [Intro to RSA Cryptography](https://youtu.be/fPvUMxIGlEE)
 		+ [Euler and Fermat](https://youtu.be/FSBY0ua69yA)
-		+ [RSA Wrapup](https://youtu.be/2SUqdALXP2Y)
+		+ [RSA Wrapup](https://youtu.be/FSBY0ua69yA)
 - **NO CLASS Tuesday 9/8**
 - **Day 7, Thursday 9/10/2020: Fast Fourier Transform** 
 	- *Required Reading*: DPV Chapter 2.6
