@@ -38,6 +38,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		+ [The Master Theorem](https://www.youtube.com/watch?v=Zzbfn8XnFHw&t=3s)
 		+ [Improved Matrix Multiplication](https://www.youtube.com/watch?v=OOxpiS9_NWk)
 - **Day 5, Tuesday 9/1/2020: Modular Arithmetic** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYxMDE0NGEtY2IwNi00YTYyLWJkODUtZjlhOWIwZmJlNmMx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 1.2 & 1.3
 	- *Videos*: 
 		+ [Modular Arithmetic Basics](https://youtu.be/804YDGOsSGE)
@@ -45,6 +46,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		+ [Multiplicative Inverses mod N](https://youtu.be/wkeGl3U6jJM)
 	- Homework 1B released, due Sunday 9/13 11pm
 - **Day 6, Thursday 9/3/2020: RSA Cryptosystem** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDI1NWU2OTAtYjg2My00NDg4LTkxMmYtOWVmYTA1OGNmZmQz%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 1.4
 	- *Videos*: 
 		+ [Intro to RSA Cryptography](https://youtu.be/fPvUMxIGlEE)
