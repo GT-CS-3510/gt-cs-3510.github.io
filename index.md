@@ -59,6 +59,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
 		+ [Fast Fourier Transform overview](https://youtu.be/vdiLPvhK6eg)
+	- *Optional*:
+		+ Interested in a more detailed treatment of the FFT? See [Eric Vigoda's lecture videos on the topic](https://www.youtube.com/playlist?list=PLjQ0-FvXa8raiyjCj-cTPwL8NspXWyS5W) which are much more comprehensive than mine.
 - **Day 8, Tuesday 9/15/2020: EXAM 1** 
 	- Homework 2A released, due Sunday 9/27 11pm
 
