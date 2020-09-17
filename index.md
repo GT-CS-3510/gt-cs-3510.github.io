@@ -69,7 +69,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 
 - **Day 9, Thursday 9/17/2020: Intro to DP & Shortest Paths in a DAG** 
 	- *Required Reading*: DPV Chapter 6.1
-	- *Videos*: 
+	- *Videos*:
+		+ [Introduction to Dynamic Programming](https://www.youtube.com/watch?v=xtcbY8mUofE)
 - **Day 10, Tuesday 9/22/2020: Longest Increasing Subsequences** 
 	- *Required Reading*: DPV Chapter 6.2
 	- *Videos*: 
