@@ -81,7 +81,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDE5ZmNiMmYtYzc3Yi00NGFmLWE3YTgtNmRmNGUxMmFmNTI2%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *OPTIONAL Reading*: DPV Chapter 6.3
 		+ Note: Chapter 6.3 is about the *edit distance* between two strings, which is slighly different than the LCS. But the solutions are somewhat similar so you will likely find it helpful.
-	- *Videos*: 
+	- *Videos*: (**Note**: This is a *playlist* with several videos!)
+		- [LCS + DP, Intro by Prof Abernethy, Details by Prof Vigoda](https://www.youtube.com/playlist?list=PLjQ0-FvXa8rZA_4PYMvWD26itN56c1TiP)
 	- Homework 2B released, due Sunday 10/4 11pm
 - **Day 12, Tuesday 9/29/2020: The Knapsack Problem** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTNiOWM2ODAtMDM2Yy00MjhkLThkZWEtOTIzNzQwYTg2YjBi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
