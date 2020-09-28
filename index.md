@@ -88,6 +88,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTNiOWM2ODAtMDM2Yy00MjhkLThkZWEtOTIzNzQwYTg2YjBi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 6.4
 	- *Videos*:
+		+ [The Knapsack Problem](https://www.youtube.com/watch?v=fqNxEydxppA)
 - **Day 13, Thursday 10/1/2020: Chain Matrix Multiplication + DP Practice** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjczYWJjYTMtMzY3ZC00NWE3LThhODEtOTg5MmEyOTA3YTBh%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 6.5
