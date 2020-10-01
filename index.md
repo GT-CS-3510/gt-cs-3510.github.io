@@ -106,7 +106,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 16, Tuesday 10/13/2020: Graphs traversal. Depth First Search.** 
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 17, Thursday 10/15/2020:Strongly connected components.** 
+- **Day 17, Thursday 10/15/2020: Strongly connected components.** 
 	- *Required Reading*:
 	- *Videos*: 
 	- Homework 3B released, due Sunday 10/25 11pm
