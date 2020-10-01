@@ -99,24 +99,24 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 
 #### Graph Algorithms
 
-- **Day 15, Thursday 10/8/2020:** 
+- **Day 15, Thursday 10/8/2020: Recap on graphs. Notation. Dijkstra's algorithm.** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWQyZjBmZWQtYzBmOC00ZWI1LTk3NDYtODA2YWI0MmZlNWQw%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 16, Tuesday 10/13/2020:** 
+- **Day 16, Tuesday 10/13/2020: Graphs traversal. Depth First Search.** 
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 17, Thursday 10/15/2020:** 
+- **Day 17, Thursday 10/15/2020:Strongly connected components.** 
 	- *Required Reading*:
 	- *Videos*: 
 	- Homework 3B released, due Sunday 10/25 11pm
-- **Day 18, Tuesday 10/20/2020:** 
+- **Day 18, Tuesday 10/20/2020: Minimimum Spanning Trees.** 
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 19, Thursday 10/22/2020:** 
+- **Day 19, Thursday 10/22/2020: The cut property and the cycle property.** 
 	- *Required Reading*:
 	- *Videos*: 
-- **Day 20, Tuesday 10/27/2020:** 
+- **Day 20, Tuesday 10/27/2020: Review for EXAM 3.** 
 	- *Required Reading*:
 	- *Videos*: 
 - **Day 21, Thursday 10/29/2020: EXAM 3** 
