@@ -104,7 +104,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Required Reading*: DPV Chapters 4.3, 4.4 and 4.5 
 	- *Videos*:
 		+ [Standard notation on graphs](https://youtu.be/w0Txes6kWAs)
-		+ [Dijkstra's algorithm]()
+		+ [Dijkstra's algorithm](https://youtu.be/PkPNkap45oY)
 - **Day 16, Tuesday 10/13/2020: Graphs traversal. Depth First Search.** 
 	- *Required Reading*:
 	- *Videos*: 
