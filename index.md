@@ -102,9 +102,9 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 15, Thursday 10/8/2020: Recap on graphs. Notation. Dijkstra's algorithm.** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGU5ZWFjMjEtZTI1ZS00NzRkLTk5MmMtYjEwY2Q0MDc2MGQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapters 4.3, 4.4 and 4.5 
-	- *Videos*: 
+	- *Videos*:
 	        + [Standard notation on graphs]()
-		+ [Dijkstra's algorithm]()
+		+ [Dijkstra's algorithm](https://gatech.instructure.com/courses/130296/external_tools/116)
 - **Day 16, Tuesday 10/13/2020: Graphs traversal. Depth First Search.** 
 	- *Required Reading*:
 	- *Videos*: 
