@@ -107,7 +107,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		+ [Dijkstra's algorithm](https://youtu.be/PkPNkap45oY)
 - **Day 16, Tuesday 10/13/2020: Graphs traversal. Depth First Search.** 
 	- *Required Reading*:
-	- *Videos*: 
+	- *Videos*:
+	        + [Depth First Search](https://youtu.be/SaVSzt_j6uU)
 - **Day 17, Thursday 10/15/2020: Strongly connected components.** 
 	- *Required Reading*:
 	- *Videos*: 
