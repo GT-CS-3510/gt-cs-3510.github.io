@@ -108,7 +108,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 16, Tuesday 10/13/2020: Graphs traversal. Depth First Search.** 
 	- *Required Reading*: DPV Chapters 3.2 and 3.3
 	- *Videos*:
-		 + [Depth First Search](https://youtu.be/SaVSzt_j6uU)       
+		 + [Depth First Search](https://youtu.be/SaVSzt_j6uU)
+		 + [Suplemental: Prof. Vigoda's class on DFS (video GR1)](https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/2232791e-816a-4300-8a71-a76755fd1c08) 
 - **Day 17, Thursday 10/15/2020: Strongly connected components.** 
 	- *Required Reading*:
 	- *Videos*: 
