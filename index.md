@@ -106,6 +106,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		+ [Standard notation on graphs](https://youtu.be/w0Txes6kWAs)
 		+ [Dijkstra's algorithm](https://youtu.be/PkPNkap45oY)
 - **Day 16, Tuesday 10/13/2020: Graphs traversal. Depth First Search.** 
+- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRlMmZmNmQtNmQ4Yi00ODViLTliOGEtYTFkMDY5NGU3NDIx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapters 3.2 and 3.3
 	- *Videos*:
 		 + [Depth First Search](https://youtu.be/SaVSzt_j6uU)
