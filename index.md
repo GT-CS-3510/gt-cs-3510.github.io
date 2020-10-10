@@ -116,7 +116,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Required Reading*: DPV Chapter 3.4
 	- *Videos*:
 		 + [Strongly Connected Components](https://youtu.be/iMbKXFCKeMc)
-		 + Suplemental: Prof. Vigoda's lecture on DFS (you need to create a free account to access Udacity). [Lecture-GR1]
+		 + Suplemental: Prof. Vigoda's lecture on DFS.
 	- Homework 3B released, due Sunday 10/25 11pm
 - **Day 18, Tuesday 10/20/2020: Minimimum Spanning Trees.** 
 	- *Required Reading*:
