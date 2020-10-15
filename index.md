@@ -132,8 +132,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 
 #### Complexity Theory and NP-completeness
 
-- **Day 22, Tuesday 11/3/2020: Introduction to NP theory. Reductions.** 
-        - [No live session](https://www.vote.org/)
+- **Day 22, Tuesday 11/3/2020: Introduction to NP theory. Reductions.**
+	- [No live session](https://www.vote.org/)
 	- *Required Reading*:
 	- *Videos*: 
 - **Day 23, Thursday 11/5/2020: Boolean satisfiability problems. SAT and 3-SAT.** 
