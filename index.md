@@ -122,12 +122,13 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTYyNTU3OWEtMjU5My00MTRjLWE0YmMtNGJkNjFkYzZiMTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 5.1
 	- *Videos*: 
-		 + [Kruskal's algorithm](https://youtu.be/RITBbo2XJd4)
-		 + Suplemental: Prof. Vigoda's lecture on MST (Lecture GR3).	
+		 + [Kruskal's algorithm](https://youtu.be/RITBbo2XJd4)	
 - **Day 19, Thursday 10/22/2020: The cut property and the cycle property.**  
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTAxNjE1N2YtYjQyZC00OGU4LWJiODItMTM1N2FlNTQ4MDVl%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 5.1
-	- *Videos*: 
+	- *Videos*:
+		 + [The cut and cycle property]()
+		 + Suplemental: Prof. Vigoda's lecture on MST (Lecture GR3).		
 - **Day 20, Tuesday 10/27/2020: Review for EXAM 3.** 
 	- *Required Reading*:
 	- *Videos*: 
