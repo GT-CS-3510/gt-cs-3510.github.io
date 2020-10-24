@@ -132,7 +132,6 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 20, Tuesday 10/27/2020: Review for EXAM 3.**
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2ZiZjc1MzQtMWFhZC00YWZiLThlOTYtMGEwNzdhMzU2Nzgz%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: It is review day! Chapters 3, 4 and 5.1 cover the exam content.
-	- *Videos*: 
 - **Day 21, Thursday 10/29/2020: EXAM 3** 
 	- Homework 4A released, due Sunday 11/8 11pm
 
