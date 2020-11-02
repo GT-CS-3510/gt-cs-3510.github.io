@@ -140,7 +140,9 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 22, Tuesday 11/3/2020: Introduction to NP theory. Reductions.**
 	- [No live session](https://www.vote.org/)
 	- *Required Reading*: DPV Chapter 8.1 and 8.2.
-	- *Videos*:[Introduction to NP-completeness. Reductions](https://youtu.be/PkVgPvQzXck) 
+	- *Videos*:
+		 + [Introduction to NP-completeness. Reductions](https://youtu.be/PkVgPvQzXck)
+		 + Suplemental: Prof. Vigoda's lecture (Lecture NP1).		 
 - **Day 23, Thursday 11/5/2020: Boolean satisfiability problems. SAT and 3-SAT.** 
 	- *Required Reading*:
 	- *Videos*: 
