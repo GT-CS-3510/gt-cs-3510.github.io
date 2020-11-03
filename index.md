@@ -146,7 +146,7 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 - **Day 23, Thursday 11/5/2020: Boolean satisfiability problems. SAT and 3-SAT.** 
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
-		 + [#-SAT is NP-complete.](https://youtu.be/nmOZEzlx1Yo)
+		 + [3-SAT is NP-complete.](https://youtu.be/nmOZEzlx1Yo)
 		 + Suplemental: Prof. Vigoda's lecture (Lecture NP2). 
 	- Homework 4B released, due Sunday 11/15 11pm
 - **Day 24, Tuesday 11/10/2020: Graphs problems.** 
