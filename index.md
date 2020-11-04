@@ -143,7 +143,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Videos*:
 		 + [Introduction to NP-completeness. Reductions](https://youtu.be/PkVgPvQzXck)
 		 + Suplemental: Prof. Vigoda's lecture (Lecture NP1).		 
-- **Day 23, Thursday 11/5/2020: Boolean satisfiability problems. SAT and 3-SAT.** 
+- **Day 23, Thursday 11/5/2020: Boolean satisfiability problems. SAT and 3-SAT.**
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzY2MTFjYTctNDhhNS00MDQwLWE5YTMtOTk0MmM3NDA3NTIx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
 		 + [3-SAT is NP-complete.](https://youtu.be/nmOZEzlx1Yo)
