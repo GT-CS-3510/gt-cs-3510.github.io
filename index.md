@@ -151,8 +151,10 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		 + Suplemental: Prof. Vigoda's lecture (Lecture NP2). 
 	- Homework 4B released, due Sunday 11/15 11pm
 - **Day 24, Tuesday 11/10/2020: Graphs problems.** 
-	- *Required Reading*:
-	- *Videos*: 
+	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
+	- *Videos*:
+		 + [Graphs problems](https://classroom.udacity.com/courses/ud401) This is profesor Vigoda's lecture NP3. Watch it first!
+		 + [Rudrata path]  
 - **Day 25, Thursday 11/12/2020: Knapsack.** 
 	- *Required Reading*:
 	- *Videos*: 
