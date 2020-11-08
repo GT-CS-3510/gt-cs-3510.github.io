@@ -150,7 +150,8 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 		 + [3-SAT is NP-complete.](https://youtu.be/nmOZEzlx1Yo)
 		 + Suplemental: Prof. Vigoda's lecture (Lecture NP2). 
 	- Homework 4B released, due Sunday 11/15 11pm
-- **Day 24, Tuesday 11/10/2020: Graphs problems.** 
+- **Day 24, Tuesday 11/10/2020: Graphs problems.**
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTFmZDI3ODQtZmI0Yi00NzRlLWI3ZTUtYjQ0NWIxYjgwYmUy%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
 	- *Videos*:
 		 + [Graphs problems](https://classroom.udacity.com/courses/ud401) This is profesor Vigoda's lecture NP3. Watch it first!
