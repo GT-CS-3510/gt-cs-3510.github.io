@@ -156,9 +156,11 @@ Below, DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Das
 	- *Videos*:
 		 + [Graphs problems](https://classroom.udacity.com/courses/ud401) This is profesor Vigoda's lecture NP3. Watch it first!
 		 + [Rudrata path](https://youtu.be/7bs0nnwDFu0)  
-- **Day 25, Thursday 11/12/2020: Knapsack.** 
+- **Day 25, Thursday 11/12/2020: Knapsack.**
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk0OWYyMTUtMTVkYi00ZjAyLTg2NDktY2Q0NTExZmU1Mzk4%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*:
-	- *Videos*: 
+	- *Videos*:
+		 + [Knapsack](https://classroom.udacity.com/courses/ud401) This is profesor Vigoda's lecture NP4.  
 - **Day 26, Tuesday 11/17/2020: Review for EXAM 4.** 
 	- *Required Reading*:
 	- *Videos*: 
