@@ -2,19 +2,19 @@
 title: CS 3510, Design and Analysis of Algorithms
 ---
 
-# CS 3510 Fall 2020 Syllabus
+# CS 3510 Fall 2021 Syllabus
 
-- **Instructors**: Jacob Abernethy (Coda S1221) and Gerandy Brito (Klaus 2111)
+- **Instructors**: Jacob Abernethy (Coda S1221) 
 - **TAs**: TBA
 - **Textbook**: [*Algorithms*](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) by S. Dasgupta, C. Papadimitriou, and U. Vazirani.
   - *Note*: The textbook [*Algorithm Design*](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) by J. Kleinberg and E. Tardos is optional but an excellent reference
 
 ### Course Format
 
-CS 3510 will be an almost entirely online course in Fall 2020. We are aiming to do a mix of synchronous and asynchronous instruction, using a "flipped classroom"-style format. Here's how this will work:
+CS 3510 for the Fall of 2021 will be a mix of synchronous and asynchronous instruction, using a "flipped classroom"-style format. Here's how this will work:
 
 1. For every class period, we will have a set of pre-recorded youtube videos for students to watch, covering the content for this class. Links to these videos can be found on the course page.
-2. Having watched the videos, students will come and join our virtual classes (12:30-1:45pm on Tuesday/Thursday) via the Microsoft Teams Live Event link (see course schedule).
+2. Having watched the videos, students will come lecture (12:30-1:45pm on Tuesday/Thursday) via the Microsoft Teams Live Event link (see course schedule).
 3. In the live class, we'll have a quick quiz to check for compreshension of the lecture videos, but we'll spend most of the time *solving problems*:
     + Problems will be solved in small groups of about 8 students
     + Once the problem is announced by the professor, students move into a breakout "room" with their group, and discuss the problem for 5-10 minutes.
