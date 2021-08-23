@@ -3,7 +3,7 @@
 ## CS 3510: Design & Analysis of Algorithms
 ### Fall 2021
 
-Welcome to the course page for CS 3510 in Fall 2021, Georgia Tech's undergraduate introductory course on algorithms.
+Welcome to the course page for CS 3510 in Fall 2021, Georgia Tech's undergraduate introductory course on algorithms and algorithmic thinking.
 
 (You can find the [Fall 2020 course page here](fall_2020.html))
 
@@ -16,30 +16,36 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 #### Recurrences and Cryptography
 
 - **Day 1, Tuesday 8/24/2021: Introduction to Course** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjUwN2I2ZGQtNDgyZS00OTgyLWFlNTktOTc1MzM4ZTNlMzIx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- Introduction to course, overview of format
 	- *Videos*:
 		+ [Course Intro Video](https://www.youtube.com/watch?v=XoSz_oxEoNA)
+
+
 - **Day 2, Thursday 8/26/2021: Big-O, Logs, Fibonacci** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI2ZWE4YmMtMDNjYS00ZDJhLThlYWYtNTYwOTBkMjQzMzdi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 0
 	- *Videos*:
 		+ [Big-O Notation](https://youtu.be/7wgr1yhyWW8)
 		+ [Computing Fibonacci](https://youtu.be/4BQm1zYPCf4)
 	- Homework 1A released, due Sunday 9/5 11pm
-	
-<!-- 
-- **Day 3, Tuesday 8/25/2021: MergeSort and Multiplication** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM3MTgwODItNmE4ZS00MzA5LTk5MmItNGE2ZTFhODAwMGZi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+
+- **Day 3, Tuesday 8/31/2021: MergeSort and Multiplication** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NlYWY3YzktMTI3MC00NmJjLWI0N2QtNWZhNTAzNzRiNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
 	- *Videos*: 
 		+ [MergeSort Algorithm](https://youtu.be/dPNOR5-PoMw)
 		+ [Multiplication](https://youtu.be/_ymFYrM4Lv8)
-- **Day 4, Thursday 8/27/2021: Recurrences and Matrix Multiplication** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzc3M2EyOTMtMTZiOC00YTI2LTk3YjctMmE1ZGExMjdlZjhi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+
+- **Day 4, Thursday 9/2/2021: Recurrences and Matrix Multiplication** 
+	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzZiZTA2YjgtYzA3NC00ZDBhLWFhYzUtYmQ3MzFlNTUwMjkx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 2.2 & 2.5
 	- *Videos*: 
 		+ [Solving Recurrences](https://youtu.be/Hqkia6gMmNg)
 		+ [The Master Theorem](https://www.youtube.com/watch?v=Zzbfn8XnFHw&t=3s)
 		+ [Improved Matrix Multiplication](https://www.youtube.com/watch?v=OOxpiS9_NWk)
+	
+<!-- 
 - **Day 5, Tuesday 9/1/2021: Modular Arithmetic** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYxMDE0NGEtY2IwNi00YTYyLWJkODUtZjlhOWIwZmJlNmMx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 1.2 & 1.3
