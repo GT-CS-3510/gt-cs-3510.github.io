@@ -28,6 +28,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		+ [Big-O Notation](https://youtu.be/kVxTDnmUjWQ)
 		+ [Computing Fibonacci](https://youtu.be/l_as6KI_40Q)
+		+ [Problem Solving Video](https://www.youtube.com/watch?v=ZOF0bAhBdzQ)
 	- Homework 1A released, due Sunday 9/5 11pm
 
 - **Day 3, Tuesday 8/31/2021: MergeSort and Multiplication** 

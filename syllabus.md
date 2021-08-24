@@ -5,7 +5,20 @@ title: CS 3510, Design and Analysis of Algorithms
 # CS 3510 Fall 2021 Syllabus
 
 - **Instructors**: Jacob Abernethy (Coda S1221) 
-- **TAs**: TBA
+- **TAs**: 
+    - Neil Thistlethwaite <nthistle@gatech.edu> 
+    - Simarpreet Kareer <skareer@gatech.edu> 
+    - John Taylor <john.taylor@gatech.edu> 
+    - Bojun Yang <byang301@gatech.edu>
+    - Anunoy Dussa <adussa3@gatech.edu>
+    - Tanmoy Panigrahi    <tanmoypanigrahi@gatech.edu> 
+    - Pranay Agrawal  <pranay.agra@gatech.edu> 
+    - Tusheet Sidharth Goli   <tgoli3@gatech.edu> 
+    - Richik Vivek Sen    <rsen9@gatech.edu> 
+    - Tejas Pradeep   <rptejas@gatech.edu> 
+    - Saloni Shah <salonishah331@gatech.edu> 
+    - Jiaxuan Chen    <jchen813@gatech.edu> 
+    - Kris Satya  <kris.satya@gatech.edu> 
 - **Textbook**: [*Algorithms*](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) by S. Dasgupta, C. Papadimitriou, and U. Vazirani.
   - *Note*: The textbook [*Algorithm Design*](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) by J. Kleinberg and E. Tardos is optional but an excellent reference
 
@@ -98,6 +111,3 @@ The final exam is *optional* in the following sense: we will compute your exam s
 #### Students with Disabilities and/or in need of Special Accommodations
 
 Georgia Tech complies with the regulations of the Americans with Disabilities Act of 1990 and offers accommodations to students with disabilities. If you are in need of classroom or testing accommodations, please make an appointment with the Office of Disability Services to discuss the appropriate procedures. More information is available on their [website](http://disabilityservices.gatech.edu/).
-
-
-
