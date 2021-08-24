@@ -18,7 +18,9 @@ title: CS 3510, Design and Analysis of Algorithms
     - Tejas Pradeep   <rptejas@gatech.edu> 
     - Saloni Shah <salonishah331@gatech.edu> 
     - Jiaxuan Chen    <jchen813@gatech.edu> 
-    - Kris Satya  <kris.satya@gatech.edu> 
+    - Kris Satya  <kris.satya@gatech.edu>
+    - Sarang Desai <sarang.desai@gatech.edu>
+    - David Heineman <david.heineman@gatech.edu> 
 - **Textbook**: [*Algorithms*](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) by S. Dasgupta, C. Papadimitriou, and U. Vazirani.
   - *Note*: The textbook [*Algorithm Design*](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) by J. Kleinberg and E. Tardos is optional but an excellent reference
 
