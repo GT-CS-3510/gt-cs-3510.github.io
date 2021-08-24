@@ -19,15 +19,15 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjUwN2I2ZGQtNDgyZS00OTgyLWFlNTktOTc1MzM4ZTNlMzIx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- Introduction to course, overview of format
 	- *Videos*:
-		+ [Course Intro Video](https://www.youtube.com/watch?v=XoSz_oxEoNA)
+		+ [Course Intro Video](https://youtu.be/R-CJbHv_qes)
 
 
 - **Day 2, Thursday 8/26/2021: Big-O, Logs, Fibonacci** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI2ZWE4YmMtMDNjYS00ZDJhLThlYWYtNTYwOTBkMjQzMzdi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 0
 	- *Videos*:
-		+ [Big-O Notation](https://youtu.be/7wgr1yhyWW8)
-		+ [Computing Fibonacci](https://youtu.be/4BQm1zYPCf4)
+		+ [Big-O Notation](https://youtu.be/kVxTDnmUjWQ)
+		+ [Computing Fibonacci](https://youtu.be/l_as6KI_40Q)
 	- Homework 1A released, due Sunday 9/5 11pm
 
 - **Day 3, Tuesday 8/31/2021: MergeSort and Multiplication** 
