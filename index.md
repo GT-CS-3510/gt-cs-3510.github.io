@@ -42,9 +42,9 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzZiZTA2YjgtYzA3NC00ZDBhLWFhYzUtYmQ3MzFlNTUwMjkx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 2.2 & 2.5
 	- *Videos*: 
-		+ [Solving Recurrences](https://youtu.be/Hqkia6gMmNg)
-		+ [The Master Theorem](https://www.youtube.com/watch?v=Zzbfn8XnFHw&t=3s)
-		+ [Improved Matrix Multiplication](https://www.youtube.com/watch?v=OOxpiS9_NWk)
+		+ [Solving Recurrences](https://youtu.be/KGu6_fiN9ro)
+		+ [The Master Theorem](https://youtu.be/5TA_lHc04bU)
+		+ [Improved Matrix Multiplication](https://youtu.be/iN2FJr6M-lo)
 	
 <!-- 
 - **Day 5, Tuesday 9/1/2021: Modular Arithmetic** 
