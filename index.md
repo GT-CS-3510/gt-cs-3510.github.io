@@ -36,7 +36,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
 	- *Videos*: 
 		+ [MergeSort Algorithm](https://youtu.be/z00BP0IKc1o)
-		+ [Multiplication](https://youtu.be/_ymFYrM4Lv8)
+		+ [Multiplication](https://youtu.be/rp7sZuOcKJg)
 		+ [Problem Solving Video](https://youtu.be/3O6TYsL13_Y)
 
 - **Day 4, Thursday 9/2/2021: Recurrences and Matrix Multiplication** 
