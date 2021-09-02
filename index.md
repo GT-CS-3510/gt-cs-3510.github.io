@@ -74,7 +74,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 
 
 - **Day 8, Thursday 9/16/2021: Study Day** 
-	- Homework 2A released, due Sunday 9/27 11pm
+	- Homework 2A released, due Sunday 9/26 11pm
 
 - **Day 9, Tuesday 9/21/2021: EXAM 1** 
 
