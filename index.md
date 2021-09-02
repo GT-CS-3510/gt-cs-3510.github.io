@@ -47,33 +47,39 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [The Master Theorem](https://youtu.be/5TA_lHc04bU)
 		+ [Improved Matrix Multiplication](https://youtu.be/iN2FJr6M-lo)
 	
-<!-- 
-- **Day 5, Tuesday 9/1/2021: Modular Arithmetic** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYxMDE0NGEtY2IwNi00YTYyLWJkODUtZjlhOWIwZmJlNmMx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+ 
+- **Day 5, Tuesday 9/7/2021: Modular Arithmetic** 
 	- *Required Reading*: DPV Chapter 1.2 & 1.3
 	- *Videos*: 
-		+ [Modular Arithmetic Basics](https://youtu.be/804YDGOsSGE)
-		+ [Algorithms for Modular Arithmetic](https://youtu.be/IgZz1naop10)
-		+ [Multiplicative Inverses mod N](https://youtu.be/wkeGl3U6jJM)
+		+ [Modular Arithmetic Basics](https://youtu.be/ThGBYFoUnMY)
+		+ [Algorithms for Modular Arithmetic](https://youtu.be/jgXCm6gHT6k)
+		+ [Multiplicative Inverses mod N](https://youtu.be/Lb-7b60xbTU)
 	- Homework 1B released, due Sunday 9/13 11pm
-- **Day 6, Thursday 9/3/2021: RSA Cryptosystem** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDI1NWU2OTAtYjg2My00NDg4LTkxMmYtOWVmYTA1OGNmZmQz%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+
+- **Day 6, Thursday 9/9/2021: RSA Cryptosystem** 
 	- *Required Reading*: DPV Chapter 1.4
 	- *Videos*: 
-		+ [Intro to RSA Cryptography](https://youtu.be/fPvUMxIGlEE)
-		+ [Euler and Fermat](https://youtu.be/FSBY0ua69yA)
-		+ [RSA Wrapup](https://youtu.be/uz1meCSqFb8)
+		+ [Intro to RSA Cryptography]()
+		+ [Euler and Fermat]()
+		+ [RSA Wrapup]()
 	- *Code*: Want to see the RSA code in action? [Here we do all of the operations in python](https://github.com/GT-CS-3510/gt-cs-3510.github.io/blob/master/jakes_rsa_protocol.py).
-- **NO CLASS Tuesday 9/8**
-- **Day 7, Thursday 9/10/2021: Fast Fourier Transform** 
+
+
+- **Day 7, Tuesday 9/14/2021: Fast Fourier Transform** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzNkNDk2OGYtYjk0Yi00MzE1LWFkZDAtY2NjODhmNjgyYmI5%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
-		+ [Fast Fourier Transform overview](https://youtu.be/vdiLPvhK6eg)
+		+ [Fast Fourier Transform overview]()
 	- *Optional*:
 		+ Interested in a more detailed treatment of the FFT? See [Eric Vigoda's lecture videos on the topic](https://www.youtube.com/playlist?list=PLjQ0-FvXa8raiyjCj-cTPwL8NspXWyS5W) which are much more comprehensive than mine.
-- **Day 8, Tuesday 9/15/2021: EXAM 1** 
+
+
+- **Day 8, Thursday 9/16/2021: Study Day** 
 	- Homework 2A released, due Sunday 9/27 11pm
+
+- **Day 9, Tuesday 9/21/2021: EXAM 1** 
+
+<!--
 
 #### Dynamic Programming
 
