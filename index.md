@@ -59,9 +59,9 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 - **Day 6, Thursday 9/9/2021: RSA Cryptosystem** 
 	- *Required Reading*: DPV Chapter 1.4
 	- *Videos*: 
-		+ [Intro to RSA Cryptography]()
-		+ [Euler and Fermat]()
-		+ [RSA Wrapup]()
+		+ [Intro to RSA Cryptography](https://www.youtube.com/watch?v=xMBhbv8umKs)
+		+ [Euler and Fermat](https://www.youtube.com/watch?v=EmKT45MHKRw)
+		+ [RSA Wrapup](https://www.youtube.com/watch?v=BUTy0a29qfY)
 	- *Code*: Want to see the RSA code in action? [Here we do all of the operations in python](https://github.com/GT-CS-3510/gt-cs-3510.github.io/blob/master/jakes_rsa_protocol.py).
 
 
