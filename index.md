@@ -68,7 +68,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 - **Day 7, Tuesday 9/14/2021: Fast Fourier Transform** 
 	- *Required Reading*: DPV Chapter 2.6
 	- *Videos*: 
-		+ [Fast Fourier Transform overview]()
+		+ [Fast Fourier Transform overview](https://youtu.be/1Ha2T1v93nE)
 	- *Optional*:
 		+ Interested in a more detailed treatment of the FFT? See [Eric Vigoda's lecture videos on the topic](https://www.youtube.com/playlist?list=PLjQ0-FvXa8raiyjCj-cTPwL8NspXWyS5W) which are much more comprehensive than mine.
 
