@@ -54,7 +54,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [Modular Arithmetic Basics](https://youtu.be/ThGBYFoUnMY)
 		+ [Algorithms for Modular Arithmetic](https://youtu.be/jgXCm6gHT6k)
 		+ [Multiplicative Inverses mod N](https://youtu.be/Lb-7b60xbTU)
-	- Homework 1B released, due Sunday 9/19 11pm
+	- Homework 1B released, due Sunday 9/19 11pm 
 
 - **Day 6, Thursday 9/9/2021: RSA Cryptosystem** 
 	- *Required Reading*: DPV Chapter 1.4
