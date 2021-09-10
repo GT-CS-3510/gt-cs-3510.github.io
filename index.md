@@ -29,7 +29,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [Big-O Notation](https://youtu.be/kVxTDnmUjWQ)
 		+ [Computing Fibonacci](https://youtu.be/l_as6KI_40Q)
 		+ [Problem Solving Video](https://www.youtube.com/watch?v=ZOF0bAhBdzQ)
-	- Homework 1A released, due Sunday 9/5 11pm
+	- [Homework 1A released, due Sunday 9/5 11pm] (https://gatech.instructure.com/courses/203398/files)
 
 - **Day 3, Tuesday 8/31/2021: MergeSort and Multiplication** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NlYWY3YzktMTI3MC00NmJjLWI0N2QtNWZhNTAzNzRiNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
@@ -54,7 +54,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [Modular Arithmetic Basics](https://youtu.be/ThGBYFoUnMY)
 		+ [Algorithms for Modular Arithmetic](https://youtu.be/jgXCm6gHT6k)
 		+ [Multiplicative Inverses mod N](https://youtu.be/Lb-7b60xbTU)
-	- Homework 1B released, due Sunday 9/19 11pm 
+	- [Homework 1B released, due Sunday 9/19 11pm] (https://gatech.instructure.com/courses/203398/files)
 
 - **Day 6, Thursday 9/9/2021: RSA Cryptosystem** 
 	- *Required Reading*: DPV Chapter 1.4
