@@ -74,20 +74,21 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 
 
 - **Day 8, Thursday 9/16/2021: Study Day** 
-	- Homework 2A released, due Sunday 9/26 11pm
 
 - **Day 9, Tuesday 9/21/2021: EXAM 1** 
 
-<!--
+
 
 #### Dynamic Programming
 
 
-- **Day 9, Thursday 9/17/2021: Intro to DP & Shortest Paths in a DAG** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2RkNTg5YjYtY2NmOS00ZWFiLWJkNzAtNWMxNGViZjQyZDE3%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- **Day 10, Thursday 9/23/2021: Intro to DP & Shortest Paths in a DAG** 
 	- *Required Reading*: DPV Chapter 6.1
+	- Homework 2A released, due Sunday 10/3 11pm
 	- *Videos*:
-		+ [Introduction to Dynamic Programming](https://www.youtube.com/watch?v=xtcbY8mUofE)
+		+ [Introduction to Dynamic Programming](https://youtu.be/jXDFr-NihYY)
+
+<!--
 - **Day 10, Tuesday 9/22/2021: Longest Increasing Subsequences** 
 	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE2Y2RjMzAtZDNjYy00MjRkLThkZDItMTE5YTAyZDk5ZTli%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 	- *Required Reading*: DPV Chapter 6.2
