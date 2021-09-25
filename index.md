@@ -84,7 +84,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 
 - **Day 10, Thursday 9/23/2021: Intro to DP & Shortest Paths in a DAG** 
 	- *Required Reading*: DPV Chapter 6.1
-	- Homework 2A released, due Sunday 10/3 11pm
+	- Homework 2A released, due Sunday 10/3 11pm(https://gatech.instructure.com/courses/203398/files)
 	- *Videos*:
 		+ [Introduction to Dynamic Programming](https://youtu.be/jXDFr-NihYY)
 
