@@ -86,7 +86,8 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapter 6.1
 	- [Homework 2A released, due Sunday 10/3 11pm](https://gatech.instructure.com/courses/203398/files)
 	- *Videos*:
-		+ [Introduction to Dynamic Programming](https://youtu.be/jXDFr-NihYY)
+		+ [Introduction to Dynamic Programming](https://youtu.be/jXDFr-NihYY)  
+		+ [Problem Solving Video](https://youtu.be/S0m07n1a58o)
 
 <!--
 - **Day 10, Tuesday 9/22/2021: Longest Increasing Subsequences** 
