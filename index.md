@@ -89,29 +89,30 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [Introduction to Dynamic Programming](https://youtu.be/jXDFr-NihYY)  
 		+ [Problem Solving Video](https://youtu.be/S0m07n1a58o)
 
-<!--
-- **Day 10, Tuesday 9/22/2021: Longest Increasing Subsequences** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE2Y2RjMzAtZDNjYy00MjRkLThkZDItMTE5YTAyZDk5ZTli%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- **Day 11, Tuesday 9/28/2021: Longest Increasing Subsequences** 
 	- *Required Reading*: DPV Chapter 6.2
 	- *Videos*: (**Note**: This is a *playlist* with several videos!)
-		- [LIS + DP, Intro by Prof Abernethy, Details by Prof Vigoda](https://www.youtube.com/playlist?list=PLjQ0-FvXa8rZYMJnEObLGtei8zXePj_UX)
-- **Day 11, Thursday 9/24/2021: Longest Common Subsequence**
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDE5ZmNiMmYtYzc3Yi00NGFmLWE3YTgtNmRmNGUxMmFmNTI2%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		- [LIS + DP, Intro by Prof Abernethy, Details by Prof Vigoda](https://youtube.com/playlist?list=PLK5iajBGhikEDwiEDjSftPyr6pHvHv71Y)
+
+- **Day 12, Thursday 9/30/2021: Longest Common Subsequence**
 	- *OPTIONAL Reading*: DPV Chapter 6.3
 		+ Note: Chapter 6.3 is about the *edit distance* between two strings, which is slighly different than the LCS. But the solutions are somewhat similar so you will likely find it helpful.
 	- *Videos*: (**Note**: This is a *playlist* with several videos!)
-		- [LCS + DP, Intro by Prof Abernethy, Details by Prof Vigoda](https://www.youtube.com/playlist?list=PLjQ0-FvXa8rZA_4PYMvWD26itN56c1TiP)
-	- Homework 2B released, due Sunday 10/4 11pm
-- **Day 12, Tuesday 9/29/2021: The Knapsack Problem** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTNiOWM2ODAtMDM2Yy00MjhkLThkZWEtOTIzNzQwYTg2YjBi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		- [LCS + DP, Intro by Prof Abernethy, Details by Prof Vigoda](https://www.youtube.com/playlist?list=PLK5iajBGhikFhvnANZSGop9FO265tBw1n)
+	- Homework 2B released, due Tuesday 10/12 11pm
+
+- **Day 13, Tuesday 10/5/2021: The Knapsack Problem** 
 	- *Required Reading*: DPV Chapter 6.4
 	- *Videos*:
-		+ [The Knapsack Problem](https://www.youtube.com/watch?v=fqNxEydxppA)
-- **Day 13, Thursday 10/1/2021: Chain Matrix Multiplication + DP Practice** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjczYWJjYTMtMzY3ZC00NWE3LThhODEtOTg5MmEyOTA3YTBh%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		+ [The Knapsack Problem](https://www.youtube.com/watch?v=Wp3tC3ylxPw)
+
+- **Day 14, Thursday 10/7/2021: Chain Matrix Multiplication + DP Practice** 
 	- *Required Reading*: DPV Chapter 6.5
 	- *Videos*:
-		+ [Chain Matrix Multiplication](https://www.youtube.com/watch?v=CjJB4G-d-7w)
+		+ [Chain Matrix Multiplication](https://www.youtube.com/watch?v=83lYN8HnYKM)
+
+<!--
+
 - **Day 14, Tuesday 10/6/2021: EXAM 2** 
 	- Homework 3A released, due Sunday 10/18 11pm
 
