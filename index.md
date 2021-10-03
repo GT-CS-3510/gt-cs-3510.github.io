@@ -99,7 +99,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ Note: Chapter 6.3 is about the *edit distance* between two strings, which is slighly different than the LCS. But the solutions are somewhat similar so you will likely find it helpful.
 	- *Videos*: (**Note**: This is a *playlist* with several videos!)
 		- [LCS + DP, Intro by Prof Abernethy, Details by Prof Vigoda](https://www.youtube.com/playlist?list=PLK5iajBGhikFhvnANZSGop9FO265tBw1n)
-	- Homework 2B released, due Tuesday 10/12 11pm
+	- [Homework 2B released, due Tuesday 10/12 11pm](https://gatech.instructure.com/courses/203398/files)
 
 - **Day 13, Tuesday 10/5/2021: The Knapsack Problem** 
 	- *Required Reading*: DPV Chapter 6.4
