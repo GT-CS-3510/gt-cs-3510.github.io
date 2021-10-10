@@ -106,54 +106,50 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		+ [The Knapsack Problem](https://www.youtube.com/watch?v=Wp3tC3ylxPw)
 
-- **Day 14, Thursday 10/7/2021: Chain Matrix Multiplication + DP Practice** 
+- **Day 14, Thursday 10/7/2021: Chain Matrix Multiplication** 
 	- *Required Reading*: DPV Chapter 6.5
 	- *Videos*:
 		+ [Chain Matrix Multiplication](https://www.youtube.com/watch?v=83lYN8HnYKM)
 
-<!--
 
-- **Day 14, Tuesday 10/6/2021: EXAM 2** 
-	- Homework 3A released, due Sunday 10/18 11pm
 
 #### Graph Algorithms
 
-- **Day 15, Thursday 10/8/2021: Recap on graphs. Notation. Dijkstra's algorithm.** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGU5ZWFjMjEtZTI1ZS00NzRkLTk5MmMtYjEwY2Q0MDc2MGQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-	- *Required Reading*: DPV Chapters 4.3, 4.4 and 4.5 
+- **Day 15, Thursday 10/14/2021: Graphs traversal. Depth First Search. DP Practice.** 
+	- *Required Reading*: DPV Chapters 3.1, 3.2, and 3.3
 	- *Videos*:
-		+ [Standard notation on graphs](https://youtu.be/w0Txes6kWAs)
-		+ [Dijkstra's algorithm](https://youtu.be/PkPNkap45oY)
-- **Day 16, Tuesday 10/13/2021: Graphs traversal. Depth First Search.** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRlMmZmNmQtNmQ4Yi00ODViLTliOGEtYTFkMDY5NGU3NDIx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-	- *Required Reading*: DPV Chapters 3.2 and 3.3
-	- *Videos*:
-		 + [Depth First Search](https://youtu.be/SaVSzt_j6uU)
+		 + [Depth First Search](https://youtu.be/gPFYdMRFTSs)
 		 + Suplemental: Prof. Vigoda's lecture on DFS (you need to create a free account to access Udacity). [Lecture-GR1](https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/2232791e-816a-4300-8a71-a76755fd1c08) 
-- **Day 17, Thursday 10/15/2021: Strongly connected components.**
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZmYjYzOTktNzBlNi00MjAxLWI3ODEtOTkyZDFmYjg0ODNj%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+	- Homework 3A released, due Sunday 10/24 11pm
+
+- **Day 16, Tuesday 10/19/2021: EXAM 2** 
+
+- **Day 17, Thursday 10/21/2021: Strongly connected components.**
 	- *Required Reading*: DPV Chapter 3.4
 	- *Videos*:
-		 + [Strongly Connected Components](https://youtu.be/iMbKXFCKeMc)
-		 + Suplemental: Prof. Vigoda's lecture on DFS.
-	- Homework 3B released, due Sunday 10/25 11pm
-- **Day 18, Tuesday 10/20/2021: Minimimum Spanning Trees.**
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTYyNTU3OWEtMjU5My00MTRjLWE0YmMtNGJkNjFkYzZiMTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		 + [Strongly Connected Components](https://youtu.be/VcMxNpXd9cY)
+	- Homework 3B released, due Sunday 10/31 11pm
+
+- **Day 18, Tuesday 10/26/2021: Breadth First Search. Dijkstra's algorithm.** 
+	- *Required Reading*: DPV Chapters 4.1, 4.2, 4.3, 4.4, and 4.5 
+	- *Videos*:
+		+ [BFS + Dijkstra (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikHgz-se_Hu7F4j2Cl4qyR5K)
+		+ 
+- **Day 19, Tuesday 10/28/2021: Minimimum Spanning Trees + Kruskal**
 	- *Required Reading*: DPV Chapter 5.1
 	- *Videos*: 
-		 + [Kruskal's algorithm](https://youtu.be/RITBbo2XJd4)	
-- **Day 19, Thursday 10/22/2021: The cut property and the cycle property.**  
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTAxNjE1N2YtYjQyZC00OGU4LWJiODItMTM1N2FlNTQ4MDVl%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		 + [Kruskal's algorithm (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikErLe6XWsqZZkpy3_m5VCRO)	
+- **Day 20, Thursday 11/2/2021: UnionFind + Prim's Algorithm**  
 	- *Required Reading*: DPV Chapter 5.1
 	- *Videos*:
-		 + [The cut and cycle property](https://youtu.be/H0JkUhp2HrM)
+		 + [The cut and cycle property](https://www.youtube.com/playlist?list=PLK5iajBGhikEWQYr3aVKjE_ERmhSJM33U)
 		 + Suplemental: Prof. Vigoda's lecture on MST (Lecture GR3).		
-- **Day 20, Tuesday 10/27/2021: Review for EXAM 3.**
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2ZiZjc1MzQtMWFhZC00YWZiLThlOTYtMGEwNzdhMzU2Nzgz%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- **Day 20, Tuesday 11/4/2021: Review for EXAM 3.**
 	- *Required Reading*: It is review day! Chapters 3, 4 and 5.1 cover the exam content.
-- **Day 21, Thursday 10/29/2021: EXAM 3** 
-	- Homework 4A released, due Sunday 11/8 11pm
+- **Day 21, Thursday 11/9/2021: EXAM 3** 
+	- Homework 4A released, due Sunday 11/14 11pm
 
+<!--
 #### Complexity Theory and NP-completeness
 
 - **Day 22, Tuesday 11/3/2021: Introduction to NP theory. Reductions.**
