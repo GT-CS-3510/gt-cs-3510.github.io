@@ -142,7 +142,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 - **Day 20, Thursday 11/2/2021: UnionFind + Prim's Algorithm**  
 	- *Required Reading*: DPV Chapter 5.1
 	- *Videos*:
-		 + [The cut and cycle property](https://www.youtube.com/playlist?list=PLK5iajBGhikEWQYr3aVKjE_ERmhSJM33U)
+		 + [UnionFind + Prim (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikEWQYr3aVKjE_ERmhSJM33U)
 		 + Suplemental: Prof. Vigoda's lecture on MST (Lecture GR3).		
 - **Day 20, Tuesday 11/4/2021: Review for EXAM 3.**
 	- *Required Reading*: It is review day! Chapters 3, 4 and 5.1 cover the exam content.
