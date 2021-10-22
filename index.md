@@ -128,18 +128,16 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapter 3.4
 	- *Videos*:
 		 + [Strongly Connected Components](https://youtu.be/VcMxNpXd9cY)
-	- Homework 3B released, due Monday 11/1 11pm
-
-- **Day 18, Tuesday 10/26/2021: Breadth First Search. Dijkstra's algorithm.** 
+	- Homework 3B released, due Monday 11/1 11pmp
+- **Day 18, Tuesday 10/26/2021: Breadth First Search. Dijkstra's algorithm.**
 	- *Required Reading*: DPV Chapters 4.1, 4.2, 4.3, 4.4, and 4.5 
 	- *Videos*:
 		+ [BFS + Dijkstra (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikHgz-se_Hu7F4j2Cl4qyR5K)
-		+ 
-- **Day 19, Tuesday 10/28/2021: Minimimum Spanning Trees + Kruskal**
+- **Day 19, Thursday 10/28/2021: Minimimum Spanning Trees + Kruskal**
 	- *Required Reading*: DPV Chapter 5.1
 	- *Videos*: 
 		 + [Kruskal's algorithm (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikErLe6XWsqZZkpy3_m5VCRO)	
-- **Day 20, Thursday 11/2/2021: UnionFind + Prim's Algorithm**  
+- **Day 20, Tuesday 11/2/2021: UnionFind + Prim's Algorithm**  
 	- *Required Reading*: DPV Chapter 5.1
 	- *Videos*:
 		 + [UnionFind + Prim (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikEWQYr3aVKjE_ERmhSJM33U)
@@ -147,12 +145,12 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 
 #### Complexity Theory and NP-completeness
 
-- **Day 20, Tuesday 11/4/2021: Introduction to Complexity, Reductions. Review for EXAM 3.**
+- **Day 20, Thursday 11/4/2021: Introduction to Complexity, Reductions. Review for EXAM 3.**
 	- *Required Reading*: DPV Chapter 8.1 and 8.2.
 	- *Exam Prep Reading*: For exam review, Chapters 3, 4 and 5.1 cover the exam content.
 	- *Videos*:
 		 + Soon: Introduction to NP-completeness. Reductions
-- **Day 21, Thursday 11/9/2021: EXAM 3** 
+- **Day 21, Tuesday 11/9/2021: EXAM 3** 
 	- Homework 4A released, due Sunday 11/14 11pm
 - **Day 22, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
@@ -170,7 +168,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- Homework 4B released, due Sunday 11/28 11pm
 - **Day 25, Tuesday 11/30/2021: Knapsack is hard. Review for Exam 4**
 	- *Videos*:
-		 + Soon: Knapsack
+		 + Soon: Knapsack is hard
 - **Day 26, Thursday 12/2/2021: EXAM 4.** 
 	- *Exam Prep Reading*: Chapter 8 in the book covers NP.
 - **Day 27, Thursday 12/7/2021: Optional, Review for Final Exam** 
