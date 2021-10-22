@@ -144,41 +144,34 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + [UnionFind + Prim (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikEWQYr3aVKjE_ERmhSJM33U)
 		 + Suplemental: Prof. Vigoda's lecture on MST (Lecture GR3).		
-- **Day 20, Tuesday 11/4/2021: Review for EXAM 3.**
-	- *Required Reading*: It is review day! Chapters 3, 4 and 5.1 cover the exam content.
-- **Day 21, Thursday 11/9/2021: EXAM 3** 
-	- Homework 4A released, due Sunday 11/14 11pm
 
-<!--
 #### Complexity Theory and NP-completeness
 
-- **Day 22, Tuesday 11/3/2021: Introduction to NP theory. Reductions.**
-	- [No live session](https://www.vote.org/)
+- **Day 20, Tuesday 11/4/2021: Introduction to Complexity, Reductions. Review for EXAM 3.**
 	- *Required Reading*: DPV Chapter 8.1 and 8.2.
+	- *Exam Prep Reading*: For exam review, Chapters 3, 4 and 5.1 cover the exam content.
 	- *Videos*:
-		 + [Introduction to NP-completeness. Reductions](https://youtu.be/PkVgPvQzXck)
-		 + Suplemental: Prof. Vigoda's lecture (Lecture NP1).		 
-- **Day 23, Thursday 11/5/2021: Boolean satisfiability problems. SAT and 3-SAT.**
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzY2MTFjYTctNDhhNS00MDQwLWE5YTMtOTk0MmM3NDA3NTIx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		 + Soon: Introduction to NP-completeness. Reductions
+- **Day 21, Thursday 11/9/2021: EXAM 3** 
+	- Homework 4A released, due Sunday 11/14 11pm
+- **Day 22, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
-		 + [3-SAT is NP-complete.](https://youtu.be/nmOZEzlx1Yo)
-		 + Suplemental: Prof. Vigoda's lecture (Lecture NP2). 
-	- Homework 4B released, due Sunday 11/15 11pm
-- **Day 24, Tuesday 11/10/2021: Graphs problems.**
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTFmZDI3ODQtZmI0Yi00NzRlLWI3ZTUtYjQ0NWIxYjgwYmUy%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		 + Soon: 3-SAT is NP-complete.
+- **Day 23, Tuesday 11/16/2021: Independent Set.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
 	- *Videos*:
-		 + [Graphs problems](https://classroom.udacity.com/courses/ud401) This is profesor Vigoda's lecture NP3. Watch it first!
-		 + [Rudrata path](https://youtu.be/7bs0nnwDFu0)  
-- **Day 25, Thursday 11/12/2021: Knapsack.**
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk0OWYyMTUtMTVkYi00ZjAyLTg2NDktY2Q0NTExZmU1Mzk4%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+		 + Soon: Independent Set
+- **Day 24, Thursday 11/18/2021: Clique and Vertex Cover.**
+	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
 	- *Videos*:
-		 + [Knapsack](https://classroom.udacity.com/courses/ud401) This is profesor Vigoda's lecture NP4.  
-- **Day 26, Tuesday 11/17/2021: Review for EXAM 4.** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTc4YWI2NzktYWEyNC00MjMxLTgyODMtMGRhMjU5NTBjMmI0%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ef58fab9-b6df-4a0f-adac-3b90b4f59c86%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-	- *Required Reading*: Chapter 8 in the book covers NP.
-- **Day 27, Thursday 11/19/2021: EXAM 4** 
-- **Day 28, Tuesday 11/24/2021: NO CLASS** 
-	 -->
-
+		 + Soon: Independent Set
+		 <!-- + [Rudrata path](https://youtu.be/7bs0nnwDFu0)   -->
+	- Homework 4B released, due Sunday 11/28 11pm
+- **Day 25, Tuesday 11/30/2021: Knapsack is hard. Review for Exam 4**
+	- *Videos*:
+		 + Soon: Knapsack
+- **Day 26, Thursday 12/2/2021: EXAM 4.** 
+	- *Exam Prep Reading*: Chapter 8 in the book covers NP.
+- **Day 27, Thursday 12/7/2021: Optional, Review for Final Exam** 
+	 
