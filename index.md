@@ -128,6 +128,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapter 3.4
 	- *Videos*:
 		 + [Strongly Connected Components](https://youtu.be/VcMxNpXd9cY)
+		 + [Problem Solving Video](https://youtu.be/TquB0cjrYU4)
 	- Homework 3B released, due Monday 11/1 11pmp
 - **Day 18, Tuesday 10/26/2021: Breadth First Search. Dijkstra's algorithm.**
 	- *Required Reading*: DPV Chapters 4.1, 4.2, 4.3, 4.4, and 4.5 
