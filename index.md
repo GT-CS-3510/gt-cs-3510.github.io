@@ -150,7 +150,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapter 8.1 and 8.2.
 	- *Exam Prep Reading*: For exam review, Chapters 3, 4 and 5.1 cover the exam content.
 	- *Videos*:
-		 + Soon: Introduction to NP-completeness. Reductions
+		 + [Introduction to Complexity Theory, Reductions](https://youtu.be/P1YnDXi_wUo)
 - **Day 21, Tuesday 11/9/2021: EXAM 3** 
 	- Homework 4A released, due Sunday 11/14 11pm
 - **Day 22, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
