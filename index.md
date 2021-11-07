@@ -120,7 +120,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + [Depth First Search](https://youtu.be/gPFYdMRFTSs)
 		 + Suplemental: Prof. Vigoda's lecture on DFS (you need to create a free account to access Udacity). [Lecture-GR1](https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/2232791e-816a-4300-8a71-a76755fd1c08) 
-	- Homework 3A released, due Sunday 10/24 11pm
+	- [Homework 3A released, due Sunday 10/24 11pm](https://gatech.instructure.com/courses/203398/files)
 
 - **Day 16, Tuesday 10/19/2021: EXAM 2** 
 
@@ -129,7 +129,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + [Strongly Connected Components](https://youtu.be/VcMxNpXd9cY)
 		 + [Problem Solving Video](https://youtu.be/TquB0cjrYU4)
-	- Homework 3B released, due Monday 11/1 11pmp
+	- [Homework 3B released, due Monday 11/1 11pm](https://gatech.instructure.com/courses/203398/files)
 - **Day 18, Tuesday 10/26/2021: Breadth First Search. Dijkstra's algorithm.**
 	- *Required Reading*: DPV Chapters 4.1, 4.2, 4.3, 4.4, and 4.5 
 	- *Videos*:
@@ -152,7 +152,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + [Introduction to Complexity Theory, Reductions](https://youtu.be/P1YnDXi_wUo)
 - **Day 21, Tuesday 11/9/2021: EXAM 3** 
-	- Homework 4A released, due Sunday 11/14 11pm
+	- [Homework 4A released, due Sunday 11/14 11pm](https://gatech.instructure.com/courses/203398/files)
 - **Day 22, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
