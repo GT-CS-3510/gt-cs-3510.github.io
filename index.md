@@ -156,7 +156,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 - **Day 22, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
-		 + Soon: 3-SAT is NP-complete.
+		 + [2-SAT in P, 3-SAT is NP-complete](https://youtu.be/ylItc6O3A4Y)
 - **Day 23, Tuesday 11/16/2021: Independent Set.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
 	- *Videos*:
