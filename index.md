@@ -166,9 +166,9 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + Soon: SubsetSum is hard
 	- Homework 4B released, due Sunday 11/28 11pm
-- **Day 26, Tuesday 11/30/2021: Knapsack is hard. Review for Exam 4**
+- **Day 26, Tuesday 11/30/2021: Cook-Levin Theorem. Review for Exam 4**
 	- *Videos*:
-		 + Soon: SubsetSum is hard
+		 + Soon: SAT is NP-complete
 - **Day 27, Thursday 12/2/2021: EXAM 4.** 
 	- *Exam Prep Reading*: Chapter 8 in the book covers NP.
 - **Day 28, Thursday 12/7/2021: Optional, Review for Final Exam** 
