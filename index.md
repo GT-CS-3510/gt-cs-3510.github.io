@@ -146,31 +146,30 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 
 #### Complexity Theory and NP-completeness
 
-- **Day 20, Thursday 11/4/2021: Introduction to Complexity, Reductions. Review for EXAM 3.**
+- **Day 21, Thursday 11/4/2021: Introduction to Complexity, Reductions. Review for EXAM 3.**
 	- *Required Reading*: DPV Chapter 8.1 and 8.2.
 	- *Exam Prep Reading*: For exam review, Chapters 3, 4 and 5.1 cover the exam content.
 	- *Videos*:
 		 + [Introduction to Complexity Theory, Reductions](https://youtu.be/P1YnDXi_wUo)
-- **Day 21, Tuesday 11/9/2021: EXAM 3** 
+- **Day 22, Tuesday 11/9/2021: EXAM 3** 
 	- [Homework 4A released, due Sunday 11/14 11pm](https://gatech.instructure.com/courses/203398/files)
-- **Day 22, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
+- **Day 23, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
 		 + [2-SAT in P, 3-SAT is NP-complete](https://youtu.be/ylItc6O3A4Y)
-- **Day 23, Tuesday 11/16/2021: Independent Set.**
+- **Day 24, Tuesday 11/16/2021: Independent Set, Clique, and Vertex Cover.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
 	- *Videos*:
-		 + Soon: Independent Set
-- **Day 24, Thursday 11/18/2021: Clique and Vertex Cover.**
-	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
+		 + Soon: Independent Set, Clique, and Vertex Cover
+- **Day 25, Thursday 11/18/2021: SubsetSum is hard.**
+	- *Required Reading*: DPV Chapter 8.3 (familiarize yourselve with the ILP and SubsetSum reductions).
 	- *Videos*:
-		 + Soon: Independent Set
-		 <!-- + [Rudrata path](https://youtu.be/7bs0nnwDFu0)   -->
+		 + Soon: SubsetSum is hard
 	- Homework 4B released, due Sunday 11/28 11pm
-- **Day 25, Tuesday 11/30/2021: Knapsack is hard. Review for Exam 4**
+- **Day 26, Tuesday 11/30/2021: Knapsack is hard. Review for Exam 4**
 	- *Videos*:
-		 + Soon: Knapsack is hard
-- **Day 26, Thursday 12/2/2021: EXAM 4.** 
+		 + Soon: SubsetSum is hard
+- **Day 27, Thursday 12/2/2021: EXAM 4.** 
 	- *Exam Prep Reading*: Chapter 8 in the book covers NP.
-- **Day 27, Thursday 12/7/2021: Optional, Review for Final Exam** 
+- **Day 28, Thursday 12/7/2021: Optional, Review for Final Exam** 
 	 
