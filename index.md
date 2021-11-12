@@ -160,7 +160,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 - **Day 24, Tuesday 11/16/2021: Independent Set, Clique, and Vertex Cover.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
 	- *Videos*:
-		 + Soon: Independent Set, Clique, and Vertex Cover
+		 + [Independent Set, Clique, and Vertex Cover (playlist)](https://youtube.com/playlist?list=PLK5iajBGhikHjBcD2GvguAQm5o6dY8rKW)
 - **Day 25, Thursday 11/18/2021: SubsetSum is hard.**
 	- *Required Reading*: DPV Chapter 8.3 (familiarize yourselve with the ILP and SubsetSum reductions).
 	- *Videos*:
