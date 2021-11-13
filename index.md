@@ -157,6 +157,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
 		 + [2-SAT in P, 3-SAT is NP-complete](https://youtu.be/ylItc6O3A4Y)
+		 + [Problem Solving Video](https://youtu.be/XGDy1moYTZQ)
 - **Day 24, Tuesday 11/16/2021: Independent Set, Clique, and Vertex Cover.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reductions from 3SAT to independent set(IS), and from IS to Clique and Vertex-Cover).
 	- *Videos*:
@@ -165,7 +166,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapter 8.3 (familiarize yourselve with the ILP and SubsetSum reductions).
 	- *Videos*:
 		 + Soon: SubsetSum is hard
-	- Homework 4B released, due Sunday 11/28 11pm
+	- Homework 4B released, due Sunday 11/28 11pm (NO LATE SUBMISSIONS)
 - **Day 26, Tuesday 11/30/2021: Cook-Levin Theorem. Review for Exam 4**
 	- *Videos*:
 		 + Soon: SAT is NP-complete
