@@ -165,8 +165,8 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 - **Day 25, Thursday 11/18/2021: SubsetSum is hard.**
 	- *Required Reading*: DPV Chapter 8.3 (familiarize yourselve with the ILP and SubsetSum reductions).
 	- *Videos*:
-		 + Soon: SubsetSum is hard
-	- Homework 4B released, due Sunday 11/28 11pm (NO LATE SUBMISSIONS)
+		 + [SubsetSum is hard (playlist)](https://www.youtube.com/playlist?list=PLK5iajBGhikE5LY5QnGd5J6YqHx3gGxBp)
+	- Homework 4B released, due Monday 11/29 11pm (NO LATE SUBMISSIONS)
 - **Day 26, Tuesday 11/30/2021: Cook-Levin Theorem. Review for Exam 4**
 	- *Videos*:
 		 + Soon: SAT is NP-complete
