@@ -170,6 +170,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 - **Day 26, Tuesday 11/30/2021: Cook-Levin Theorem. Review for Exam 4**
 	- *Videos*:
 		 + [Cook-Levin Theorem, aka "SAT is NP-complete"](https://www.youtube.com/watch?v=W9G_1xG77LE&ab_channel=UndefinedBehavior)
+		 + (*Optional!*) More thoughts on what a "Turing machine" is: [Turing Machines Explained - Computerphile](https://www.youtube.com/watch?v=dNRDvLACg5Q&ab_channel=Computerphile)`
 - **Day 27, Thursday 12/2/2021: EXAM 4.** 
 	- *Exam Prep Reading*: Chapter 8 in the book covers NP.
 - **Day 28, Thursday 12/7/2021: Optional, Review for Final Exam** 
