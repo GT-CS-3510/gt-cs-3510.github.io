@@ -169,7 +169,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- Homework 4B released, due Monday 11/29 11pm (NO LATE SUBMISSIONS)
 - **Day 26, Tuesday 11/30/2021: Cook-Levin Theorem. Review for Exam 4**
 	- *Videos*:
-		 + Soon: SAT is NP-complete
+		 + [Cook-Levin Theorem, aka "SAT is NP-complete"](https://www.youtube.com/watch?v=W9G_1xG77LE&ab_channel=UndefinedBehavior)
 - **Day 27, Thursday 12/2/2021: EXAM 4.** 
 	- *Exam Prep Reading*: Chapter 8 in the book covers NP.
 - **Day 28, Thursday 12/7/2021: Optional, Review for Final Exam** 
